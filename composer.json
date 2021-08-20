@@ -11,5 +11,7 @@
             "email": "hitendra1995@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "pecee/simple-router": "4.3.7.2"
+    }
 }
