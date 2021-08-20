@@ -83,7 +83,7 @@ module.exports = {
         new CopyPlugin({
             patterns: [{
                 from: "src/img/",
-                to: "./assets/img/"
+                to: "./img/"
             }, ],
         }),
         new MiniCssExtractPlugin({
