@@ -1,0 +1,15 @@
+{
+    "name": "hitendra/sitemapstatus",
+    "autoload": {
+       "psr-4": {
+           "Inc\\": "./inc"
+       }
+    },
+    "authors": [
+        {
+            "name": "Hitendra Rathore",
+            "email": "hitendra1995@gmail.com"
+        }
+    ],
+    "require": {}
+}

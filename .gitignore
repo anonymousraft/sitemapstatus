@@ -1,0 +1,6 @@
+.phpintel/
+node_modules
+**/.DS_Store
+vendor/
+composer.lock
+package-lock.json
