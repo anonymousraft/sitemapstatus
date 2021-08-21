@@ -1,0 +1,50 @@
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+
+
+    &__left{
+
+    }
+
+    &__right{
+        
+    }
+
+    &__logo{
+
+    }
+
+    &__list{
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        
+        &--item{
+
+            &:not(:first-child){
+                margin-left: 2rem;
+            }
+        }
+
+        &--link{
+
+            &:link,&:visited{
+                text-decoration: none;
+            }
+
+            &:hover{
+
+            }
+                       
+        }
+
+        
+
+
+
+    }
+
+}

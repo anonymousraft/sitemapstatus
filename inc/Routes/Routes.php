@@ -8,16 +8,28 @@ use Pecee\Http\Request;
 use Pecee\SimpleRouter\Handlers\IExceptionHandler;
 use Pecee\SimpleRouter\Exceptions\NotFoundHttpException;
 
+/**
+ * App controllers
+ */
+use Inc\Controllers\HomeController;
+
 
 $helper = new BaseController();
 $helper->helperFile();
 
-SimpleRouter::get('/', function () {
-    return 'Hello world';
-});
+// SimpleRouter::get('/', function () {
+//     return 'Hello world';
+// });
+
+SimpleRouter::get('/', [HomeController::class,'start']);
 
 SimpleRouter::get('/test', function () {
     return 'test route';
+});
+
+SimpleRouter::post('/submit', function(){
+    $url = input('url','none','post');
+    HomeController::form($url);
 });
 
 SimpleRouter::get('/not-found', function () {

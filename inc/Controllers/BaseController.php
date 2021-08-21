@@ -12,6 +12,7 @@ class BaseController
     public $app_name;
     public $app_url;
     public $app_root;
+    public $resources;
 
 
     public function __construct()
@@ -19,6 +20,7 @@ class BaseController
         $this->app_name = "Sitemap Status";
         $this->app_root = $_SERVER['DOCUMENT_ROOT'];
         $this->app_url = $this->appURL();
+        $this->resources = $this->assets();
     }
 
     private function appURL()
@@ -39,19 +41,43 @@ class BaseController
         require_once "$this->app_root/inc/Routes/Helpers.php";
     }
 
-    public function registerHeaderScripts()
+    public function registerCSS()
     {
-        // require_once "$this->app_root/inc/Routes/header.php";
+        $css = $this->resources['css'];
+        $css_html = "<link rel='stylesheet' href='$this->app_url/$css'>";
+        printf("\n%s\n",$css_html);
+    }
+
+    public function registerJS()
+    {
+        $js = $this->resources['js'];
+        $js_html = "<script src='$this->app_url/$js'></script>";
+        printf("\n%s\n", $js_html);
+    }
+
+    public function headerHTML()
+    {
+        require_once "$this->app_root/inc/Layout/header.php";
     }
 
     public function bodyHTML()
     {
-        // require_once "$this->app_root/assets/layouts/body.php";
+        require_once "$this->app_root/inc/Layout/body.php";
     }
 
-    public function  registerFooterScripts()
+    public function  footerHTML()
     {
-        // require_once "$this->app_root/assets/layouts/footer.php";
+        require_once "$this->app_root/inc/Layout/footer.php";
+    }
+
+    private function assets()
+    {
+        $resources = [
+            'css' => 'assets/css/bundle.css',
+            'js' => 'assets/js/bundle.js'
+        ];
+
+        return $resources;
     }
 
     public function pageTitles()

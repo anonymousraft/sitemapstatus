@@ -10,6 +10,7 @@ use Inc\Controllers\BaseController;
 use Pecee\SimpleRouter\SimpleRouter;
 
 final class Init{
+    
     public static $routes;
     public static function start(){
 
