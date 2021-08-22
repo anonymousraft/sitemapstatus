@@ -1,39 +1,640 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//hitendra.co/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//khetibuddy.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://hitendra.co/blog/</loc>
-	</url>
-	<url>
-		<loc>https://hitendra.co/get-what-you-want/</loc>
-		<lastmod>2020-08-07T23:22:27+05:00</lastmod>
-	</url>
-	<url>
-		<loc>https://hitendra.co/khamoshi/</loc>
-		<lastmod>2020-04-12T14:37:33+05:00</lastmod>
-	</url>
-	<url>
-		<loc>https://hitendra.co/annual-day-celebration-gups-padla-handliya/</loc>
-		<lastmod>2020-02-20T17:39:11+05:00</lastmod>
+		<loc>https://khetibuddy.com/</loc>
+		<lastmod>2021-08-17T03:17:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://hitendra.co/wp-content/uploads/2020/02/IMG_0837-scaled.jpg</image:loc>
-			<image:caption><![CDATA[Annual Day GUPS Padla]]></image:caption>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_logo-300x168.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://hitendra.co/wp-content/uploads/2020/02/IMG_0846.jpg</image:loc>
-			<image:caption><![CDATA[Annual Day GUPS Padla Handliya]]></image:caption>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_logo-1-300x168.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://hitendra.co/i-attended-wordcamp-ahmedabad/</loc>
-		<lastmod>2019-12-21T18:35:10+05:00</lastmod>
 		<image:image>
-			<image:loc>https://hitendra.co/wp-content/uploads/2019/12/Ikigai.jpg</image:loc>
-			<image:caption><![CDATA[Ikigai]]></image:caption>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/KBH-1-1-300x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/i2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/s2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/A-detailed-guide-to-Aquaponics.jpg</image:loc>
+			<image:caption><![CDATA[A Detailed Guide on Aquaponic Farming in India]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/Revolutionizing-Agriculture-with-Automation.jpg</image:loc>
+			<image:caption><![CDATA[Revolutionizing Agriculture through Farming Automation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/Everything-you-need-to-know-about-indoor-gardening.jpg</image:loc>
+			<image:caption><![CDATA[Everything You Need to Know About Indoor Gardening]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/1-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/2-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://hitendra.co/why-i-write/</loc>
-		<lastmod>2019-12-05T17:47:55+05:00</lastmod>
+		<loc>https://khetibuddy.com/careers/</loc>
+		<lastmod>2020-12-07T12:10:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/image-min-oxc5q4455ni4nic78a54zozgpp5t98u7p2m10bx1c0.jpg</image:loc>
+			<image:title><![CDATA[image-min]]></image:title>
+			<image:caption><![CDATA[image-min]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/image2-min-oxc62kh5pmjwhi8xi5y6j1uc2hrw8va6epsmxbg8w0.jpg</image:loc>
+			<image:title><![CDATA[image2-min]]></image:title>
+			<image:caption><![CDATA[image2-min]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/image2-min-oxc62kh5pmjwhi8xi5y6j1uc2hrw8va6epsmxbg8w0.jpg</image:loc>
+			<image:title><![CDATA[image2-min]]></image:title>
+			<image:caption><![CDATA[image2-min]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/news-media/</loc>
+		<lastmod>2020-12-28T10:48:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/KhetiBuddy_Platform-768x497-1.jpg</image:loc>
+			<image:caption><![CDATA[Aarialife Forays Into Agtech Journey With Kheti Buddy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/KhetiBuddy_Platform-1024x663-1.jpg</image:loc>
+			<image:caption><![CDATA[Aarialife Forays Into Agtech Journey With Kheti Buddy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/farming-mobile-app/</loc>
+		<lastmod>2021-03-15T09:27:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/kbf_logo-ox1ngv9z5rfl6bprq0l9plx8d6ldmnflv74hkyd7k6-150x137.png</image:loc>
+			<image:title><![CDATA[kbf_logo-ox1ngv9z5rfl6bprq0l9plx8d6ldmnflv74hkyd7k6]]></image:title>
+			<image:caption><![CDATA[kbf_logo-ox1ngv9z5rfl6bprq0l9plx8d6ldmnflv74hkyd7k6]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite5-min.png</image:loc>
+			<image:caption><![CDATA[Soil Data Integration]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite2-min.png</image:loc>
+			<image:caption><![CDATA[Crop Schedule]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite4-min.png</image:loc>
+			<image:caption><![CDATA[Profit &amp; Loss Report]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite1-min.png</image:loc>
+			<image:caption><![CDATA[Farm Advisory]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite6-min.png</image:loc>
+			<image:caption><![CDATA[Weather Forecast &amp; Market Rates]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite3-min.png</image:loc>
+			<image:caption><![CDATA[Pest &amp; Disease Management]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite5-min.png</image:loc>
+			<image:caption><![CDATA[Soil Data integration]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite2-min.png</image:loc>
+			<image:caption><![CDATA[Crop schedule]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite4-min.png</image:loc>
+			<image:caption><![CDATA[Profit and loss report]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite1-min.png</image:loc>
+			<image:caption><![CDATA[Advisory]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite6-min.png</image:loc>
+			<image:caption><![CDATA[Weather &amp; market insights]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbf_sprite3-min.png</image:loc>
+			<image:caption><![CDATA[Pest &amp; disease management]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g11-ox1qn4jptpcafigs79kch17jxjsfl1f8hml0skwfza.jpg</image:loc>
+			<image:caption><![CDATA[g11]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g33-ox1qn6fe7dev2qe1wadlm0qh4bj60fmp5vvzr4tnmu.jpg</image:loc>
+			<image:caption><![CDATA[g33]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g22-ox1qn8b2l1hfpybblb6ur09eb39wftu5u56ypoqvae.jpg</image:loc>
+			<image:caption><![CDATA[g22]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/farm1-ox1qv8viszjinoyvjhg5cfa7f1d9wsce6eb19bl7co.png</image:loc>
+			<image:title><![CDATA[farm1]]></image:title>
+			<image:caption><![CDATA[farm1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/KBF-ox1qv6zs4vbu33rygqu1f4ty9ikxtqcwfsua5c48o8.png</image:loc>
+			<image:title><![CDATA[KBF]]></image:title>
+			<image:caption><![CDATA[KBF]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/googlePlay-ox1qvbozp6xnluks9wm56vp9tzv4cq3mojjijc34vy.png</image:loc>
+			<image:title><![CDATA[googlePlay]]></image:title>
+			<image:caption><![CDATA[googlePlay]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/mscreen-ozih321odlxrqkljpx1qg9l9kebocqxo12ge83p92m.png</image:loc>
+			<image:title><![CDATA[mscreen]]></image:title>
+			<image:caption><![CDATA[mscreen]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/KBF-ox1qv6zs4vbu33rygqu1f4ty9ikxtqcwfsua5c48o8.png</image:loc>
+			<image:title><![CDATA[KBF]]></image:title>
+			<image:caption><![CDATA[KBF]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/googlePlay-ox1qvbozp6xnluks9wm56vp9tzv4cq3mojjijc34vy.png</image:loc>
+			<image:title><![CDATA[googlePlay]]></image:title>
+			<image:caption><![CDATA[googlePlay]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/Artboard-13.jpg</image:loc>
+			<image:caption><![CDATA[Mobile Apps for Farmers: How smartphone apps helps in agriculture?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/soiltesting-1-min.jpg</image:loc>
+			<image:caption><![CDATA[Know Your Soil: Hows and Whys of Soil Testing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/knowfarmer-min.jpg</image:loc>
+			<image:caption><![CDATA[It’s Time We Know Our Farmer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/farm-management-system/</loc>
+		<lastmod>2021-03-16T11:08:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/kbe_logo-oz0wp468977yw4qftjyd1cm8cju6iykmwkzmd2p7ra-150x137.png</image:loc>
+			<image:title><![CDATA[kbe_logo-oz0wp468977yw4qftjyd1cm8cju6iykmwkzmd2p7ra]]></image:title>
+			<image:caption><![CDATA[kbe_logo-oz0wp468977yw4qftjyd1cm8cju6iykmwkzmd2p7ra]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/KBE-1-1024x663.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite-1.png</image:loc>
+			<image:caption><![CDATA[Live Dashboard Visualization of Farm-Level Info]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite2.png</image:loc>
+			<image:caption><![CDATA[Digitization of Farm Data]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite3.png</image:loc>
+			<image:caption><![CDATA[Broadcasting Messages, Schemes and News]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite5.png</image:loc>
+			<image:caption><![CDATA[Crop Advisory]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite6.png</image:loc>
+			<image:caption><![CDATA[Customizable Crop Schedule Dissemination]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite7.png</image:loc>
+			<image:caption><![CDATA[Compliance and traceability]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite-1.png</image:loc>
+			<image:caption><![CDATA[Live Dashboard Visualization of Farm-Level Info]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite2.png</image:loc>
+			<image:caption><![CDATA[Digitization of Farm Data]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite3.png</image:loc>
+			<image:caption><![CDATA[Broadcasting Messages, Schemes and News]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite5.png</image:loc>
+			<image:caption><![CDATA[Crop Advisory]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite6.png</image:loc>
+			<image:caption><![CDATA[Customizable Crop Schedule Dissemination]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbe_sprite7.png</image:loc>
+			<image:caption><![CDATA[Compliance and traceability]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/Artboard-20.jpg</image:loc>
+			<image:caption><![CDATA[How Modern Farming Technology Covers Agricultural Risks?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/Artboard-14.jpg</image:loc>
+			<image:caption><![CDATA[How to Choose Right Enterprise Farm Management Software?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/12.jpg</image:loc>
+			<image:caption><![CDATA[Crop Management: How Agritech is Transforming Crop Strategy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/thank-you/</loc>
+		<lastmod>2021-04-22T10:48:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/privacy-policy/</loc>
+		<lastmod>2021-05-12T10:37:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/contact-us/</loc>
+		<lastmod>2021-05-12T11:00:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/pune-1-p6bxgqytr8hams2i330h3i6apylj1s7qv2i5u0bvzy.jpg</image:loc>
+			<image:title><![CDATA[pune-1]]></image:title>
+			<image:caption><![CDATA[pune-1]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/about-us/</loc>
+		<lastmod>2021-06-08T08:57:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/about_new-6x8g9nny0y0b704zkyxeungykvntj4yugwx9kbkyf6w.png</image:loc>
+			<image:title><![CDATA[about_new]]></image:title>
+			<image:caption><![CDATA[about_new]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/our_story_sprite2-min.png</image:loc>
+			<image:caption><![CDATA[Energy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/our_story_sprite3-min.png</image:loc>
+			<image:caption><![CDATA[Enthusiasm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/our_story_sprite1-min.png</image:loc>
+			<image:caption><![CDATA[Empathy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/Vinay-sir-ox8upbvp9jrgv40roco0s8ts7yxahn4fadebww9xo6.png</image:loc>
+			<image:title><![CDATA[Vinay-sir]]></image:title>
+			<image:caption><![CDATA[Vinay-sir]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/Richa-ox8v8aaj39pn00hizjn62gmfhphrpwdjw70ubs646u.png</image:loc>
+			<image:title><![CDATA[Richa]]></image:title>
+			<image:caption><![CDATA[Richa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/srinivasa-ox8v8kmr6g3sjq2ib642bw0i0y2t2killm76ltqsae.png</image:loc>
+			<image:title><![CDATA[srinivasa]]></image:title>
+			<image:caption><![CDATA[srinivasa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/amit-ox8v8lklda52vc155oiowdrymby6a9mbxquo33pe46.png</image:loc>
+			<image:title><![CDATA[amit]]></image:title>
+			<image:caption><![CDATA[amit]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/home-gardening-app/</loc>
+		<lastmod>2021-06-08T09:12:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/KBH-1-ox1vj7na7gw3e5z4bionwcay1viz8w2sg9ju5vvdl2-150x136.png</image:loc>
+			<image:title><![CDATA[KBH-1-ox1vj7na7gw3e5z4bionwcay1viz8w2sg9ju5vvdl2]]></image:title>
+			<image:caption><![CDATA[KBH-1-ox1vj7na7gw3e5z4bionwcay1viz8w2sg9ju5vvdl2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite5-min.png</image:loc>
+			<image:caption><![CDATA[Pro-Gardening Guide]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite2-min.png</image:loc>
+			<image:caption><![CDATA[Activity Reminder]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite6-min.png</image:loc>
+			<image:caption><![CDATA[Trusted Garden Shops]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite4-min.png</image:loc>
+			<image:caption><![CDATA[Tips &amp; Tricks]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite3-min.png</image:loc>
+			<image:caption><![CDATA[Advisory]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite1-min.png</image:loc>
+			<image:caption><![CDATA[Gardening Services]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite5-min.png</image:loc>
+			<image:caption><![CDATA[No to Pro- Gardener]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite2-min.png</image:loc>
+			<image:caption><![CDATA[Activity Reminder]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite6-min.png</image:loc>
+			<image:caption><![CDATA[Trusted garden-shops]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite4-min.png</image:loc>
+			<image:caption><![CDATA[Tips and tricks]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite3-min.png</image:loc>
+			<image:caption><![CDATA[Advisory]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/kbh_sprite1-min.png</image:loc>
+			<image:caption><![CDATA[Gardening service]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g3-1-ox25xbeu6mie6na7h36vy70lgvyx31n44tglf94lwm.jpg</image:loc>
+			<image:caption><![CDATA[g3 (1)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g2-ox25xdaikakytv7h640536jinnpnifukt2rkdt1tk6.jpg</image:loc>
+			<image:caption><![CDATA[g2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g1-ox25xf66xynjh34qv4te862fufgdxu21hc2jccz17q.jpg</image:loc>
+			<image:caption><![CDATA[g1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g4-ox25ykj3ao85nxgo5moz9vmpzdsjcim8b0rwgj9ply.jpg</image:loc>
+			<image:caption><![CDATA[g4]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g5-ox25yp8a8uel9z9ue6q44cg0yb5df04vzo1bux2qqu.jpg</image:loc>
+			<image:caption><![CDATA[g5]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g6-ox25yuvbdumb7n1nh95vjb0simdkp6ra0fy8qkudpi.jpg</image:loc>
+			<image:caption><![CDATA[g6]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g7-ox25yzkic0sqtoutpt70dru3hjqero9xp37o4yneue.jpg</image:loc>
+			<image:caption><![CDATA[g7]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g8-1-ox25z3bv3cxw44pd3utinqvxv37vmgov1ltm22hu5i.jpg</image:loc>
+			<image:caption><![CDATA[g8]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g9-1-ox25z8yw8d5m1sh66x9a2pgpfeg2wnb92dqixq9h46.jpg</image:loc>
+			<image:caption><![CDATA[g9]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/g3-ox25zcq8zparc8bpkyvscoijsxxjrfq6ewcguu3wfa.jpg</image:loc>
+			<image:caption><![CDATA[g3]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/farm1-ox1qv8viszjinoyvjhg5cfa7f1d9wsce6eb19bl7co.png</image:loc>
+			<image:title><![CDATA[farm1]]></image:title>
+			<image:caption><![CDATA[farm1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/KBF-ox1qv6zs4vbu33rygqu1f4ty9ikxtqcwfsua5c48o8.png</image:loc>
+			<image:title><![CDATA[KBF]]></image:title>
+			<image:caption><![CDATA[KBF]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/googlePlay-ox1qvbozp6xnluks9wm56vp9tzv4cq3mojjijc34vy.png</image:loc>
+			<image:title><![CDATA[googlePlay]]></image:title>
+			<image:caption><![CDATA[googlePlay]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/app-ox2613pdz3477bbq6ut6m9krwgsg8l5vkqfzgp9poi.png</image:loc>
+			<image:title><![CDATA[app]]></image:title>
+			<image:caption><![CDATA[app]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/11-ox2616ivxgqrx0p7a91n8uts5thbwgvzu6ooigksfc.png</image:loc>
+			<image:title><![CDATA[11]]></image:title>
+			<image:caption><![CDATA[11]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/mscreen-p3s9ku4qsnh6j67n8e9904m7d22kswtr4opqtr681a.png</image:loc>
+			<image:title><![CDATA[mscreen]]></image:title>
+			<image:caption><![CDATA[mscreen]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/KBF-ox1qv6zs4vbu33rygqu1f4ty9ikxtqcwfsua5c48o8.png</image:loc>
+			<image:title><![CDATA[KBF]]></image:title>
+			<image:caption><![CDATA[KBF]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/googlePlay-ox1qvboze6nuq7qppr4jpzl47jf21fk66d89ubgdei.png</image:loc>
+			<image:title><![CDATA[googlePlay]]></image:title>
+			<image:caption><![CDATA[googlePlay]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/app-ox2613pdo3shz8yvr634zrh9crciel9evpusd882je.png</image:loc>
+			<image:title><![CDATA[app]]></image:title>
+			<image:caption><![CDATA[app]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/11-ox2616ivxgqrx0p7a91n8uts5thbwgvzu6ooigksfc.png</image:loc>
+			<image:title><![CDATA[11]]></image:title>
+			<image:caption><![CDATA[11]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/13_1.jpg</image:loc>
+			<image:caption><![CDATA[Community Garden – Grow as a Community]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/14-1.jpg</image:loc>
+			<image:caption><![CDATA[Indoor Air-Purifying Plants (Low Maintenance &amp; Low Light!)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/01/is-patience-the-fertilizer-your-garden-is-lacking-min.jpg</image:loc>
+			<image:caption><![CDATA[Is Patience the Fertilizer Your Home Garden Is Lacking?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/gardening-service-in-pune/</loc>
+		<lastmod>2021-08-11T07:23:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/garden-ox4wqe3lv7t8shf0ltt2kf10tfmpzcxtg2522jz68q.jpg</image:loc>
+			<image:title><![CDATA[garden]]></image:title>
+			<image:caption><![CDATA[garden]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/11-1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/22-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/33-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/11-1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/22-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/gardening-workshops/</loc>
+		<lastmod>2021-08-12T04:39:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/2-min-ox4tfyfo1pqz00gu8gjijgs6vzcq16sw8i4yeemfae.jpg</image:loc>
+			<image:caption><![CDATA[2-min]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/3-min-ox4tfzdi8js9bmfh2yy53yjnhd838vwmkmsfvol146.jpg</image:loc>
+			<image:caption><![CDATA[3-min]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/5-min-ox4tfuobadltpkmauex09hqcifv96edyvzj0harzza.jpg</image:loc>
+			<image:caption><![CDATA[5-min]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/1-min-ox4tfwjzo1oecsjkjfq9eh99p7lzlslfk8tzfup7mu.jpg</image:loc>
+			<image:caption><![CDATA[1-min]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/elementor/thumbs/4-min-ox4tg196m7utyucqrzre8y2ko4ytoa438w3eu8i8rq.jpg</image:loc>
+			<image:caption><![CDATA[4-min]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khetibuddy.com/blog/</loc>
+		<lastmod>2021-08-18T04:42:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/A-detailed-guide-to-Aquaponics.jpg</image:loc>
+			<image:caption><![CDATA[A Detailed Guide on Aquaponic Farming in India]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/Revolutionizing-Agriculture-with-Automation.jpg</image:loc>
+			<image:caption><![CDATA[Revolutionizing Agriculture through Farming Automation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/Everything-you-need-to-know-about-indoor-gardening.jpg</image:loc>
+			<image:caption><![CDATA[Everything You Need to Know About Indoor Gardening]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/08/Future-of-Agriculture.jpg</image:loc>
+			<image:caption><![CDATA[Future of Agriculture – Top Trends &amp; Challenges in Agriculture]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/WhatsApp-Image-2021-08-02-at-10.11.49-AM.jpeg</image:loc>
+			<image:caption><![CDATA[Kitchen Garden: A Beginner Guide to Growing Vegetables at Home]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/Artificial-Intelligence-In-Indian-Agriculture.png</image:loc>
+			<image:caption><![CDATA[Artificial Intelligence In Indian Agriculture]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/Garden-Maintenance-Tips-How-to-Take-Care-of-Your-Garden.png</image:loc>
+			<image:caption><![CDATA[Garden Maintenance Tips: How to Take Care of Your Garden?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/A-Complete-Guide-on-How-to-Start-Greenhouse-Farming.png</image:loc>
+			<image:caption><![CDATA[A Complete Guide on How to Start Greenhouse Farming]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/Impact-of-COVID-19-Pandemic-on-Agriculture-Industry-In-India.png</image:loc>
+			<image:caption><![CDATA[Impact of COVID-19 Pandemic on Agriculture Industry In India (2020 – 2021)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/WhatsApp-Image-2021-08-02-at-10.13.38-AM.jpeg</image:loc>
+			<image:caption><![CDATA[HOW NEW TECHNOLOGY IN AGRICULTURE CAN BENEFIT FARMERS]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/WhatsApp-Image-2021-08-02-at-10.16.42-AM.jpeg</image:loc>
+			<image:caption><![CDATA[5 MUST-HAVE FEATURES IN AN AGRICULTURE APP FOR FARMERS]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/07/WhatsApp-Image-2021-08-02-at-10.17.51-AM.jpeg</image:loc>
+			<image:caption><![CDATA[Contract Farming in India: Types and Benefits of Contract Farming]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/05/05_A-Detailed-Guide-on-How-to-Start-Organic-Farming.jpg</image:loc>
+			<image:caption><![CDATA[A Detailed Guide on How to Start Organic Farming]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/05/02_Sustainable-Farming_-A-Detailed-Guide-on-Sustainable-Farming-Methods.jpg</image:loc>
+			<image:caption><![CDATA[Sustainable Farming: A Detailed Guide on Sustainable Farming Methods]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/05/04_Digital-Farming_-Everything-You-Need-To-Know-About-Digitization-In-Agriculture.jpg</image:loc>
+			<image:caption><![CDATA[Digital Farming: Everything You Need To Know About Digitization In Agriculture]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/Artboard-20.jpg</image:loc>
+			<image:caption><![CDATA[How Modern Farming Technology Covers Agricultural Risks?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/13_1.jpg</image:loc>
+			<image:caption><![CDATA[Community Garden – Grow as a Community]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/14-1.jpg</image:loc>
+			<image:caption><![CDATA[Indoor Air-Purifying Plants (Low Maintenance &amp; Low Light!)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/Artboard-14.jpg</image:loc>
+			<image:caption><![CDATA[How to Choose Right Enterprise Farm Management Software?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/Artboard-20.jpg</image:loc>
+			<image:caption><![CDATA[How Modern Farming Technology Covers Agricultural Risks?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/Artboard-13.jpg</image:loc>
+			<image:caption><![CDATA[Mobile Apps for Farmers: How smartphone apps helps in agriculture?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/WhatsApp-Image-2020-11-18-at-10.52.22-AM.jpeg</image:loc>
+			<image:caption><![CDATA[IoT in Agriculture – Next Generation of Farming Technology]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/12/12.jpg</image:loc>
+			<image:caption><![CDATA[Crop Management: How Agritech is Transforming Crop Strategy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/Artboard-63-1.jpg</image:loc>
+			<image:caption><![CDATA[Technology trends in agriculture 2020: What does the future hold?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/11/Artboard-16.jpg</image:loc>
+			<image:caption><![CDATA[Precision Farming: Using Data To Improve Farming Outcomes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/11/Artboard-15-min.jpg</image:loc>
+			<image:caption><![CDATA[Top Agriculture Sensors Used in Farming Industry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/How-data-analytics-is-transforming-agriculture-industry.jpg</image:loc>
+			<image:caption><![CDATA[How Data Analytics is Transforming the Agriculture Industry?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2020/10/Leveraging-AgTech-for-Contract-farming-in-India.jpg</image:loc>
+			<image:caption><![CDATA[Leveraging AgTech in Contract Farming in India]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://khetibuddy.com/wp-content/uploads/2021/01/is-patience-the-fertilizer-your-garden-is-lacking-min.jpg</image:loc>
+			<image:caption><![CDATA[Is Patience the Fertilizer Your Home Garden Is Lacking?]]></image:caption>
+		</image:image>
 	</url>
 </urlset>
-<!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->
+<!-- XML Sitemap generated by Yoast SEO -->
