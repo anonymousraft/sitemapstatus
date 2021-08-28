@@ -99,10 +99,11 @@ class HomeController
         ];
 
         $options = [
-            CURLOPT_HEADER => true, 
-            CURLOPT_NOBODY => true,
-            CURLOPT_RETURNTRANSFER => true,
-            CURLOPT_USERAGENT => $config['useragent']
+            CURLOPT_HEADER => true,
+            CURLOPT_CUSTOMREQUEST => 'HEAD',
+            CURLOPT_USERAGENT => $config['useragent'],
+            CURLOPT_RETURNTRANSFER => true,            
+            CURLOPT_NOBODY => true      
         ];
 
         $mh = curl_multi_init();
